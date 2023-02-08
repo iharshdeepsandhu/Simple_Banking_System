@@ -1,0 +1,61 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Simple Banking System/*
+!/Simple Banking System/task/
+/Simple Banking System/task/*
+!/Simple Banking System/task/src/
+!/Simple Banking System/task/build.gradle
+!/Simple Banking System/task/build.gradle.kts
+
+# Project exclude paths
+/Topics/Array/Initializing an array of longs/out/
+/Topics/Array/Initializing an array of longs/out/production/classes/
+/Topics/Command-line arguments/The index of an argument/out/
+/Topics/Command-line arguments/The index of an argument/out/production/classes/
+/Topics/Conditional statement/The army of units/out/
+/Topics/Conditional statement/The army of units/out/production/classes/
+/Topics/Conditional statement/Triangle/out/
+/Topics/Conditional statement/Triangle/out/production/classes/
+/Topics/Constructor/Account and its owner/out/
+/Topics/Constructor/Account and its owner/out/production/classes/
+/Topics/Declaring a method/Calculating factorials/out/
+/Topics/Declaring a method/Calculating factorials/out/production/classes/
+/Topics/Functional decomposition/Decompose a math function/out/
+/Topics/Functional decomposition/Decompose a math function/out/production/classes/
+/Topics/Iterating over arrays/Count how many times a number occurs/out/
+/Topics/Iterating over arrays/Count how many times a number occurs/out/production/classes/
+/Topics/java.util.Arrays/Convert the array to a List/out/
+/Topics/java.util.Arrays/Convert the array to a List/out/production/classes/
+/Topics/Multidimensional array/Symmetric matrix/out/
+/Topics/Multidimensional array/Symmetric matrix/out/production/classes/
+/Topics/Objects/Null or not/out/
+/Topics/Objects/Null or not/out/production/classes/
+/Topics/Overloading/Overloading methods/out/
+/Topics/Overloading/Overloading methods/out/production/classes/
+/Topics/Random/Find the seed/out/
+/Topics/Random/Find the seed/out/production/classes/
+/Topics/Random/Gaussian random numbers/out/
+/Topics/Random/Gaussian random numbers/out/production/classes/
+/Topics/Relational operators/Check the value/out/
+/Topics/Relational operators/Check the value/out/production/classes/
+/Topics/Relational operators/Exactly one parameter is positive/out/
+/Topics/Relational operators/Exactly one parameter is positive/out/production/classes/
+/Topics/Switch statement/Direction/out/
+/Topics/Switch statement/Direction/out/production/classes/
+/Topics/Switch statement/Harry Potter/out/
+/Topics/Switch statement/Harry Potter/out/production/classes/
+/Topics/The while and do-while loops/Collatz conjecture/out/
+/Topics/The while and do-while loops/Collatz conjecture/out/production/classes/
